@@ -1,0 +1,30 @@
+/Users/efe/Projects/HerkeseTekHediye/HerkeseTekHediye/obj/Debug/net7.0/HerkeseTekHediye.csproj.AssemblyReference.cache
+/Users/efe/Projects/HerkeseTekHediye/HerkeseTekHediye/obj/Debug/net7.0/HerkeseTekHediye.GeneratedMSBuildEditorConfig.editorconfig
+/Users/efe/Projects/HerkeseTekHediye/HerkeseTekHediye/obj/Debug/net7.0/HerkeseTekHediye.AssemblyInfoInputs.cache
+/Users/efe/Projects/HerkeseTekHediye/HerkeseTekHediye/obj/Debug/net7.0/HerkeseTekHediye.AssemblyInfo.cs
+/Users/efe/Projects/HerkeseTekHediye/HerkeseTekHediye/obj/Debug/net7.0/HerkeseTekHediye.csproj.CoreCompileInputs.cache
+/Users/efe/Projects/HerkeseTekHediye/HerkeseTekHediye/bin/Debug/net7.0/HerkeseTekHediye
+/Users/efe/Projects/HerkeseTekHediye/HerkeseTekHediye/bin/Debug/net7.0/HerkeseTekHediye.deps.json
+/Users/efe/Projects/HerkeseTekHediye/HerkeseTekHediye/bin/Debug/net7.0/HerkeseTekHediye.runtimeconfig.json
+/Users/efe/Projects/HerkeseTekHediye/HerkeseTekHediye/bin/Debug/net7.0/HerkeseTekHediye.dll
+/Users/efe/Projects/HerkeseTekHediye/HerkeseTekHediye/bin/Debug/net7.0/HerkeseTekHediye.pdb
+/Users/efe/Projects/HerkeseTekHediye/HerkeseTekHediye/obj/Debug/net7.0/HerkeseTekHediye.dll
+/Users/efe/Projects/HerkeseTekHediye/HerkeseTekHediye/obj/Debug/net7.0/refint/HerkeseTekHediye.dll
+/Users/efe/Projects/HerkeseTekHediye/HerkeseTekHediye/obj/Debug/net7.0/HerkeseTekHediye.pdb
+/Users/efe/Projects/HerkeseTekHediye/HerkeseTekHediye/obj/Debug/net7.0/HerkeseTekHediye.genruntimeconfig.cache
+/Users/efe/Projects/HerkeseTekHediye/HerkeseTekHediye/obj/Debug/net7.0/ref/HerkeseTekHediye.dll
+/Volumes/YANAR/Algoritma/CodeWars Vize/CodeWars Vize/Only One Gift Per Child/HerkeseTekHediye/bin/Debug/net7.0/HerkeseTekHediye
+/Volumes/YANAR/Algoritma/CodeWars Vize/CodeWars Vize/Only One Gift Per Child/HerkeseTekHediye/bin/Debug/net7.0/HerkeseTekHediye.deps.json
+/Volumes/YANAR/Algoritma/CodeWars Vize/CodeWars Vize/Only One Gift Per Child/HerkeseTekHediye/bin/Debug/net7.0/HerkeseTekHediye.runtimeconfig.json
+/Volumes/YANAR/Algoritma/CodeWars Vize/CodeWars Vize/Only One Gift Per Child/HerkeseTekHediye/bin/Debug/net7.0/HerkeseTekHediye.dll
+/Volumes/YANAR/Algoritma/CodeWars Vize/CodeWars Vize/Only One Gift Per Child/HerkeseTekHediye/bin/Debug/net7.0/HerkeseTekHediye.pdb
+/Volumes/YANAR/Algoritma/CodeWars Vize/CodeWars Vize/Only One Gift Per Child/HerkeseTekHediye/obj/Debug/net7.0/HerkeseTekHediye.csproj.AssemblyReference.cache
+/Volumes/YANAR/Algoritma/CodeWars Vize/CodeWars Vize/Only One Gift Per Child/HerkeseTekHediye/obj/Debug/net7.0/HerkeseTekHediye.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/YANAR/Algoritma/CodeWars Vize/CodeWars Vize/Only One Gift Per Child/HerkeseTekHediye/obj/Debug/net7.0/HerkeseTekHediye.AssemblyInfoInputs.cache
+/Volumes/YANAR/Algoritma/CodeWars Vize/CodeWars Vize/Only One Gift Per Child/HerkeseTekHediye/obj/Debug/net7.0/HerkeseTekHediye.AssemblyInfo.cs
+/Volumes/YANAR/Algoritma/CodeWars Vize/CodeWars Vize/Only One Gift Per Child/HerkeseTekHediye/obj/Debug/net7.0/HerkeseTekHediye.csproj.CoreCompileInputs.cache
+/Volumes/YANAR/Algoritma/CodeWars Vize/CodeWars Vize/Only One Gift Per Child/HerkeseTekHediye/obj/Debug/net7.0/HerkeseTekHediye.dll
+/Volumes/YANAR/Algoritma/CodeWars Vize/CodeWars Vize/Only One Gift Per Child/HerkeseTekHediye/obj/Debug/net7.0/refint/HerkeseTekHediye.dll
+/Volumes/YANAR/Algoritma/CodeWars Vize/CodeWars Vize/Only One Gift Per Child/HerkeseTekHediye/obj/Debug/net7.0/HerkeseTekHediye.pdb
+/Volumes/YANAR/Algoritma/CodeWars Vize/CodeWars Vize/Only One Gift Per Child/HerkeseTekHediye/obj/Debug/net7.0/HerkeseTekHediye.genruntimeconfig.cache
+/Volumes/YANAR/Algoritma/CodeWars Vize/CodeWars Vize/Only One Gift Per Child/HerkeseTekHediye/obj/Debug/net7.0/ref/HerkeseTekHediye.dll
